@@ -1,0 +1,11 @@
+#root{
+  max-width: 1000px;
+  max-height: 1000px;
+  background-color: gray;
+}
+fieldset{
+  border: solid black;
+}
+input{
+  border: solid black;
+}
